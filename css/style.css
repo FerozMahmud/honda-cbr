@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner-part{
+    background-color: #264653;
+    ;
+}
+.extra-color{
+   color: #E76F51;
+}
+.gray-img {
+    filter: grayscale(100%);
+  }
+.faq-img{
+    width: 50%;
+}
